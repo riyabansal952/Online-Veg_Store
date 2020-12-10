@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Index Page</title>
+<script src="jquery library/jquery.min1.11.1.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" src="../bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+<link type="text/css" rel="stylesheet" href="bootstrap-3.3.4-dist/css/bootstrap.min.css" />
+<link type="text/css" rel="stylesheet" href="bootstrap-3.3.4-dist/css/bootstrap-theme.min.css" />
+<link type="text/css" rel="stylesheet" href="index.css" />
+
+</head>
+
+<body>
+<div class="container">
+    <!-- Top Head  --->
+     <div class="container">
+         <nav class="navbar navbar-inverse">
+           <div class="container-fluid">
+              <div class="navbar-header">
+                    <a class="navbar-brand" href="#">Green Veg</a>
+               </div>
+    
+               <ul class="nav navbar-nav navbar-right">
+                  <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                  <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+               </ul>
+          </div>
+     </div>
+ </div>
+     
+     <div class="container">
+        <!-- First Row Start -->
+        
+         <div class="row">
+            <div class="col-md-2">
+               <img src="img/Icon/logo4.png" class="img-rounded" />
+            </div>
+            <div class="col-md-6">
+                         
+            </div>
+            <div class="col-md-4">
+               <div class="row text-right">
+                  <ul class="list-inline">
+                    <li><a>Login & Register</a></li>
+                    <li><a>Contact Us</a></li>
+                    <li><a>Help & Support</a></li>
+                  </ul>
+               </div>  
+               <div class="row text-right">
+                  <form class="form-inline">
+                      <div class="col-md-12">
+                          <span><input type="text" placeholder="Search Entire Store.." /><button class="btn-info btn-sm glyphicon glyphicon-search">Search</button></span>
+                      </div>             
+                 </form>
+               </div>
+            </div>
+         </div> 
+       <!--  Second Row  Start   -->  
+         
+              <div class="row bg-success">
+                   <ul class="nav nav-tabs">
+                      <li><a href="#">Home</a></li>
+                      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us<span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                             <li><a href="#">About company</a></li>
+                             <li><a href="#">About Product</a></li>
+                          </ul>
+                      </li>
+                      
+                      <li><a href="#">Product</a></li>
+                      <li><a href="#">Services</a></li>
+                   </ul>
+              </div> 
+       </div>
+        
+       <!-- Banner Section -->  
+       <div class="container">
+         <!--      Column 1  -->   
+           <div class="col-md-2">
+             
+              <div class="row">
+               <ul class="list-inline">
+                 <li>
+                  <h4 class="text-muted"> WHO WE ARE </h4>
+                    <ul class="list-inline"><li class="text-lowercase">We can help you eat more fruits &amp; vegetables! Fruits &amp; Veggies–More Matters® is a health initiative focused on helping Americans increase fruit &amp; vegetable consumption for better health. <strong><a href="">More</a></strong></li></ul> 
+                 </li>
+               </ul>
+              </div>
+                  
+              <div class="row">
+                 <ul class="list-inline">
+                    <li>
+                       <h4 class="text-muted">FOLLOW AND CONNECT</h4>
+                        <ul class="list-inline"><li><img src="img/Icon/f.png" class="img-thumbnail" /></li><li><img src="img/Icon/t.png" class="img-thumbnail" /></li><li><img src="img/Icon/in1.png" class="img-thumbnail" /></li></ul>  
+                    </li> 
+                 </ul> 
+              </div> 
+             
+             <div class="row">
+                <ul class="list-inline">
+                   <li>
+                      <form>
+                         <h4 class="text-muted">JOIN OUR MAILING LIST</h4>
+                         <div class="form-group">
+                             <input type="text" placeholder="Enter Email Here.."  />
+                             <button class="btn-info">SignUp</button>
+                         </div>
+                      </form>
+                   </li>
+                </ul> 
+             </div>    
+            
+           </div>  
+      <!--      Column 2  -->     
+           <div class="col-md-8">
+              <div class="row">
+                  
+     <div id="featured">
+       <div id="slides" style="position:absolute;">
+      <section id="slide-1"  style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; width: 100%"> 
+          <img src="img/0232_foodsense.jpg" alt="Shop for the Best" />
+      </section>
+      <!--<section id="slide-2" class="alt" style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; width: 100%"> 
+          <img src="../../Project/img/0219_foodsense.jpg" alt="Shop for the Best" />
+        <h1><a href="#">Shop for the Best</a></h1>
+        <h2><a href="#">With our carefully curated vendor list, you'll know what to buy. </a></h2>
+      </section>
+      <section id="slide-3" class="alt" style="position: absolute; top: 0px; left: 0px; display: block; opacity: 1; width: 100%"> 
+          <img src="../../Project/img/0140_foodsense.jpg" alt="Shop for the Best" />
+        <h1><a href="#">Shop for the Best</a></h1>
+        <h2><a href="#">With our carefully curated vendor list, you'll know what to buy. </a></h2>
+      </section>
+-->
+      </div>
+    </div>
+
+              
+              
+                 
+              </div>  
+           </div> 
+     <!--      Column 3  -->      
+           <div class="col-md-2">
+               <div class="row">
+                 <ul class="list-inline">
+                    <li>
+                       <div>
+                         <span> <img src="../img/1426634511in_season.jpg" /><h4 class="text-success">What's In Season</h4></span>
+                       </div>
+                    </li>
+                 </ul> 
+               </div>
+           </div>         
+       </div> 
+         
+                  
+</div>
+</body>
+</html>
